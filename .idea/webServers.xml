@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="72d2c142-a0ed-4367-a17f-97e5ababc4f9" name="server-7208(项目级别)">
+        <fileTransfer accessType="SFTP" host="39.99.222.199" port="7208" sshConfigId="276bf27b-8579-41d1-a888-1388bfcf54cb" sshConfig="server-7208">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

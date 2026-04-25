@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="39.99.222.199" id="b0d0bc7c-aa7d-43b2-b9a7-394547dd7845" port="7241" customName="server-7241" nameFormat="CUSTOM" username="benchao.li" useOpenSSHConfig="true">
+        <option name="customName" value="server-7241" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
